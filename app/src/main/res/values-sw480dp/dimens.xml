@@ -1,0 +1,75 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+    <dimen name="space_micro">6dp</dimen>
+    <dimen name="space_small">10dp</dimen>
+    <dimen name="space_medium">12dp</dimen>
+    <dimen name="space_large">14dp</dimen>
+    <dimen name="space_extra_large">20dp</dimen>
+    <dimen name="space_xx_large">30dp</dimen>
+
+    <dimen name="bubble_width">280dp</dimen>
+
+    <dimen name="tab_bar_height">63dp</dimen>
+    <dimen name="app_bar_height">300dp</dimen>
+    <dimen name="gallary_photo_height">160dp</dimen>
+
+    <dimen name="tender_project_name_width">220dp</dimen>
+    <dimen name="tender_status_width">120dp</dimen>
+    <dimen name="tender_created_on_width">150dp</dimen>
+    <dimen name="tender_created_by_width">150dp</dimen>
+    <dimen name="tender_end_date_width">150dp</dimen>
+    <dimen name="tender_title_width">170dp</dimen>
+    <dimen name="tender_action_width">150dp</dimen>
+
+    <dimen name="user_img_size_xxxlarge">145dp</dimen>
+    <dimen name="user_img_size_xxlarge">110dp</dimen>
+    <dimen name="user_img_size_xlarge">85dp</dimen>
+    <dimen name="user_img_size_large">65dp</dimen>
+    <dimen name="user_img_size_normal">55dp</dimen>
+    <dimen name="user_img_size_small">45dp</dimen>
+
+
+
+    <dimen name="divider_space_large">32dp</dimen>
+    <dimen name="divider_space_normal">27dp</dimen>
+    <dimen name="divider_space_small">22dp</dimen>
+
+    <dimen name="font_8">10sp</dimen>
+    <dimen name="font_10">12sp</dimen>
+    <dimen name="font_12">14sp</dimen>
+    <dimen name="font_14">16sp</dimen>
+    <dimen name="font_16">18sp</dimen>
+    <dimen name="font_18">20sp</dimen>
+    <dimen name="font_20">22sp</dimen>
+    <dimen name="font_22">24sp</dimen>
+    <dimen name="font_24">26sp</dimen>
+    <dimen name="font_30">32sp</dimen>
+    <dimen name="font_45">46sp</dimen>
+
+    <dimen name="cp_dialog_width">300dp</dimen>
+    <dimen name="cp_dialog_height">450dp</dimen>
+
+
+    <dimen name="tab_font_size">16sp</dimen>
+    <dimen name="tab_icon_size">34dp</dimen>
+
+    <integer name="anim_duration_very_long">1500</integer>
+    <integer name="anim_duration_long">500</integer>
+    <integer name="anim_duration_medium">300</integer>
+
+    <dimen name="header_view_start_margin_left">24dp</dimen>
+    <dimen name="header_view_end_margin_left">60dp</dimen>
+    <dimen name="header_view_end_margin_right">20dp</dimen>
+    <dimen name="header_view_start_margin_bottom">20dp</dimen>
+    <dimen name="header_view_start_text_size">46sp</dimen>
+    <dimen name="header_view_end_text_size">25sp</dimen>
+
+    <dimen name="rippleStrokeWidth">2dp</dimen>
+    <dimen name="rippleRadius">28dp</dimen>
+    <dimen name="toolbar_bootom_space">72dp</dimen>
+
+</resources>

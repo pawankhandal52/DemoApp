@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "581342275176",
+    "firebase_url": "https://mapdemoapp-4b6aa.firebaseio.com",
+    "project_id": "mapdemoapp-4b6aa",
+    "storage_bucket": "mapdemoapp-4b6aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581342275176:android:236b27bce62f43e3",
+        "android_client_info": {
+          "package_name": "com.fleeca.demoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581342275176-couqnf16j4pfa2pf0uf0kk8k8ilm1oha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fleeca.demoapp",
+            "certificate_hash": "b043ff15d33d36cb2e8aab19276c0a4520553769"
+          }
+        },
+        {
+          "client_id": "581342275176-b0qm38job64k0a0ggk86bse628uulnq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwrHV6gT-0K3t8EoZGMx1RFmLRC3P66zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581342275176-b0qm38job64k0a0ggk86bse628uulnq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

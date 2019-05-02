@@ -1,0 +1,22 @@
+<resources>
+    <string name="facebook_id">316681075690217</string>
+
+    <string name="app_name">Demo App</string>
+    <string name="don_t_have_account_sign_up">
+        <u>Don\'t have account, SIGN UP</u>
+    </string>
+    <string name="Have_account_sign_up">
+        <u>Already have account, SIGN IN</u>
+    </string>
+
+    <string name="forgot_pasword">Forgot Pasword ?</string>
+    <string name="remember_me">Remember me</string>
+    <string name="or">OR</string>
+    <string name="password">Password</string>
+    <string name="user_name">User Name</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_id">Email Id</string>
+    <string name="signup">SignUp</string>
+    <string name="login">Login</string>
+    <string name="web_client_id">581342275176-b0qm38job64k0a0ggk86bse628uulnq3.apps.googleusercontent.com</string>
+</resources>
